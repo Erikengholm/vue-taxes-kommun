@@ -1,0 +1,20 @@
+.select-wrapper {
+  width: 100%;
+
+  .v-select {
+    .vs__dropdown-toggle {
+      background: #fff;
+      border-color: rgba(var(--vs-primary), 1) !important;
+    }
+
+    .vs__dropdown-menu {
+      li {
+        text-transform: capitalize;
+      }
+    }
+
+    .vs__selected {
+      text-transform: capitalize;
+    }
+  }
+}

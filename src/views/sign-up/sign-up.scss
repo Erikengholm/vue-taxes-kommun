@@ -1,0 +1,184 @@
+.signup-page {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+
+  .inext-logo {
+    width: 160px;
+    height: 100px;
+    background-image: url("~@/assets/images/inext-logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin: auto;
+  }
+
+  .signup-form-container {
+    background: #ffffff;
+    padding: 15px 40px;
+    box-shadow: 0 4px 25px 0 rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    max-width: 500px;
+    margin-bottom: 20px;
+
+    .row-welcome-text {
+      color: #4ec8e3;
+      font-weight: bold;
+      font-size: 22px;
+      margin: 12px 0;
+    }
+
+    .row-hr {
+      margin: 15px auto;
+      font-weight: bold;
+
+      .or-text {
+        text-transform: uppercase;
+      }
+    }
+
+    .row-bank-select {
+      button {
+        width: 100%;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 14px;
+        border-radius: 10px;
+        border: 2px solid;
+        font-family: "Montserrat";
+        border-color: rgb(92, 229, 198) !important;
+        background: rgb(255, 255, 255) !important;
+        color: #5ce5c6 !important;
+
+        .vs-button--text {
+          display: grid;
+          grid-template-columns: 40px auto;
+          align-items: center;
+
+          span {
+            text-transform: uppercase;
+          }
+        }
+
+        .bank-icon {
+          width: 25px;
+          height: 25px;
+          display: block;
+          background-image: url("~@/assets/images/icons/bank-logo.svg");
+        }
+      }
+    }
+
+    .error {
+      margin: auto auto auto 5px;
+      color: red;
+      font-size: 12px;
+      font-weight: 600;
+      opacity: 0.6;
+    }
+
+    .row-email,
+    .row-password {
+      input {
+        width: 100%;
+        border-radius: 5px;
+        border-color: #bdbebd;
+        height: 45px;
+      }
+    }
+
+    .row-language,
+    .row-taxation {
+      margin: 8px 0;
+
+      label {
+        color: #4ec8e2;
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 5px;
+      }
+
+      .vs-select-content {
+        max-width: 100%;
+        margin-top: 10px;
+
+        .vs-select__input {
+          width: 100%;
+          border-radius: 5px;
+          border-color: #bdbebd;
+          height: 45px;
+        }
+      }
+    }
+
+    .row-company {
+      margin: 8px 0;
+
+      .vs-radio-content {
+        font-size: 15px;
+        width: 100%;
+        justify-content: flex-start;
+        margin: 3px 0;
+      }
+    }
+
+    .row-privacy-policy {
+      display: flex;
+      margin-bottom: 10px;
+
+      .col-privacy-policy {
+        font-size: 10px;
+
+        strong {
+          text-decoration: underline;
+          cursor: pointer;
+        }
+      }
+    }
+
+    .row-submit-btn {
+      margin: 8px 0;
+
+      .vs-button {
+        width: 100%;
+        border-radius: 5px;
+        background: #4ec8e2;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 16px;
+        padding: 3px;
+        font-family: "Montserrat";
+      }
+    }
+  }
+
+  .footer-section {
+    margin: 20px 0;
+
+    .vs-row {
+      font-size: 11px;
+      text-align: center;
+
+      &.terms-and-conditions-section {
+        font-size: 9px;
+      }
+
+      &.login-section {
+        margin-top: 15px;
+
+        strong {
+          font-size: 12px;
+
+          span {
+            font-size: 16px;
+            color: #4ec8e2;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+}

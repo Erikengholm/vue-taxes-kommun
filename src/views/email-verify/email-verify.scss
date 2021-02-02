@@ -1,0 +1,103 @@
+.email-verify-page {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+
+  .inext-logo {
+    width: 160px;
+    height: 80px;
+    background-image: url("~@/assets/images/inext-logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin: auto;
+  }
+
+  .email-verify-form-container {
+    background: #fff;
+    padding: 15px 0;
+    box-shadow: 0 4px 25px 0 rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    max-width: 500px;
+    width: 100%;
+
+    .email-verify-form-wrapper {
+      margin: auto;
+      width: 350px;
+    }
+
+    .row-welcome-text {
+      color: #4ec8e3;
+      font-weight: bold;
+      font-size: 22px;
+      margin: 12px 0;
+    }
+
+    .email-verify-form {
+      input {
+        height: 45px;
+      }
+
+      .row-email-verify {
+        text-align: right;
+        margin: 15px 0;
+
+        label {
+          color: #4ec8e2;
+          font-weight: bold;
+        }
+      }
+    }
+
+    .row-submit-btn {
+      margin: 20px 0;
+
+      .vs-button {
+        width: 100%;
+        border-radius: 5px;
+        background: #4ec8e2;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 16px;
+        padding: 3px;
+
+        .vs-button--text {
+          text-transform: uppercase;
+        }
+      }
+
+      &.resend-token {
+        .vs-button {
+          background: transparent !important;
+          border: 1px solid;
+        }
+      }
+    }
+  }
+
+  .footer-section {
+    margin: 20px 0;
+
+    .vs-row {
+      font-size: 11px;
+      text-align: center;
+
+      &.login-section {
+        margin-top: 15px;
+
+        strong {
+          font-size: 12px;
+
+          span {
+            font-size: 16px;
+            color: #4ec8e2;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+}

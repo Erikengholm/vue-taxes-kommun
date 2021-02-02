@@ -1,0 +1,19 @@
+.input-text-wrapper {
+  width: 100%;
+
+  .vs-input {
+    width: 100%;
+
+    input {
+      border-color: rgba(var(--vs-primary), 1) !important;
+    }
+
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      margin: 0;
+    }
+  }
+}

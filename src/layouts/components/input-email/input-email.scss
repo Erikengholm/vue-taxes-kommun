@@ -1,0 +1,11 @@
+.input-email-wrapper {
+  width: 100%;
+
+  .vs-input {
+    width: 100%;
+
+    input {
+      border-color: rgba(var(--vs-primary), 1) !important;
+    }
+  }
+}

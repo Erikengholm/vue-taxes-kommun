@@ -1,0 +1,111 @@
+.OCR-RadioBtn{
+  display: flex;
+
+  div {
+    width:50%;
+    text-align-last: center;
+  }
+}
+.OCR-page {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    // background-image: linear-gradient(to right top, #58e5c9, #0cd9e1, #09c9f0, #53b7f2, #82a2e6);
+    .inext-logo {
+      width: 160px;
+      height: 80px;
+      background-image: url("~@/assets/images/inext-logo.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 100%;
+      margin: auto;
+    }
+  
+    .OCR-form-container {
+      background: #fff;
+      width: 100%;
+      padding: 15px 0;
+      box-shadow: 0 4px 25px 0 rgba(0, 0, 0, 0.1);
+      margin-top: 20px;
+      max-width: 500px;
+      margin-bottom: 20px;
+  
+      .OCR-form-wrapper {
+        width: 350px;
+        margin: auto;
+      }
+  
+      .row-welcome-text {
+        color: #4ec8e3;
+        font-weight: bold;
+        font-size: 22px;
+        margin: 8px 0;
+      }
+  
+      .vs-row {
+        width: 100%;
+        margin: 10px auto;
+        font-weight: bold;
+  
+        .or-text {
+          text-transform: uppercase;
+        }
+      }
+  
+      .OCR-form {
+        input {
+          height: 45px;
+        }
+          label {
+            color: #4ec8e2;
+            font-weight: bold;
+            cursor: pointer;
+          }
+        }
+      
+  
+      .row-submit-btn {
+        .vs-button {
+          width: 100%;
+          border-radius: 5px;
+          background: #4ec8e2;
+          font-weight: bold;
+          text-transform: uppercase;
+          font-size: 16px;
+          padding: 3px;
+  
+          .vs-button--text {
+            text-transform: uppercase;
+          }
+        }
+      }
+    }
+  
+    .footer-section {
+      margin: 20px 0;
+  
+      .vs-row {
+        font-size: 11px;
+        text-align: center;
+  
+        &.OCR-section {
+          font-size: 16px;
+          margin: 5px;
+  
+          strong {
+            font-size: 12px;
+  
+            span {
+              color: #4ec8e2;
+              font-size: 16px;
+              cursor: pointer;
+            }
+          }
+        }
+      }
+    }
+  }
+  

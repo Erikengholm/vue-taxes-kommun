@@ -1,0 +1,63 @@
+.text-danger {
+  font-weight: bold;
+}
+
+.app-bg-color,
+.vs-sidebar {
+  background-image: linear-gradient(to right top, #58e5c9, #0cd9e1, #09c9f0, #53b7f2, #82a2e6);
+}
+
+.menuShrink {
+  &.v-nav-menu {
+    .vs-sidebar {
+      .header-sidebar {
+        padding: 20px 5px 16px;
+
+        .logo {
+          width: 55px;
+          height: 55px;
+        }
+      }
+    }
+  }
+}
+
+.vs-sidebar {
+  .header-sidebar {
+    .vx-logo {
+      width: 100%;
+      justify-content: center;
+
+      .logo {
+        background-color: #ffffff;
+        border-radius: 50%;
+        width: 80px;
+      }
+    }
+
+    #btnVNavMenuMinToggler {
+      svg {
+        background: #ffffff;
+        border-radius: 50%;
+      }
+    }
+  }
+
+  .ps-container {
+    .vs-sidebar--item {
+      .router-link-active {
+        background: #ffffff;
+
+        .feather-icon,
+        .truncate {
+          color: #52decd;
+        }
+      }
+
+      .feather-icon,
+      .truncate {
+        color: #ffffff;
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+	modified:   package.json
+	modified:   src/i18n/i18nData.js
+	modified:   src/layouts/components/input-text/input-text.vue
+	modified:   src/router.js
+	new file:   src/views/OCR/OCR.js
+	new file:   src/views/OCR/OCR.scss
+	new file:   src/views/OCR/OCR.vue
+	modified:   src/views/Test/test.js
+	modified:   src/views/Test/test.scss
+	modified:   src/views/Test/test.vue
+	modified:   yarn.lock
+#
