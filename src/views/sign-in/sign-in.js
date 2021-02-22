@@ -36,6 +36,10 @@ export default {
       }, {
         label: 'Sweden',
         value: 'sw'
+      },
+      {
+        label: 'Denmark',
+        value: 'dk'
       }
     ];
   },

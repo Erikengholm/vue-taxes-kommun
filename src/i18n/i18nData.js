@@ -50,5 +50,31 @@ export default {
     HowMuchIsLeft: 'hur mycket blir kvar',
     WalletEmployersContributetion : 'hur mycket Arbetsgivaravgifterna är sammanlagt'
 
+  },
+  dk: {
+    welcome: 'Welcome!',
+    enterEmail: 'Enter Your Email',
+    enterToken: 'Enter Your Token',
+    loginWithBankId: 'Login with bankid',
+    or: 'or',
+    email: 'Email',
+    forgotYourPwd: 'Forgot your password?',
+    resendToken: 'Resend Token',
+    doYouHaveAccount: 'Do you have an account?',
+    createAnAccount: 'Create an account here',
+    youUseInext: 'You use iNext for',
+    anotherCountry: 'Select another country',
+    login: 'Login',
+    signupWithBankId: 'Signup with bankid',
+    signup: 'Signup',
+    independent_contractor: 'I want to be an Independent Contractor at iNext',
+    own_company: 'I have my own company',
+    forgotPassword: 'Forgot Password',
+    WalletInput: 'how much money you paid',
+    WalletInext: 'how much goes to inext',
+    WalletTaxes: 'how much that goes to taxes',
+    WalletSallery: 'how much that goes to Salery',
+    HowMuchIsLeft: 'how much are left',
+    WalletEmployersContributetion : 'how much the employer contributions are in total'
   }
 };

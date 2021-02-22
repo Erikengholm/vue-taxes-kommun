@@ -34,9 +34,11 @@ export default {
     ValueToLabel (value) {
       switch (value) {
       case 'en':
-        return 'USA';
+        return 'United kingdom';
       case 'sw':
         return 'Sweden';
+      case 'dk':
+        return 'Denmark';
       }
 
     }

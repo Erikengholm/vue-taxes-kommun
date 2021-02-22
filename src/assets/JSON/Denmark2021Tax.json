@@ -1,0 +1,688 @@
+[
+    {
+      "Year": 2021,
+      "name": "Copenhagen",
+      "MunicipalTaxRate": 23.8,
+      "ChurchTaxRate": 0.8,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Frederiksberg",
+      "MunicipalTaxRate": 22.8,
+      "ChurchTaxRate": 0.5,
+      "Land tax rate": 24.75
+    },
+    {
+      "Year": 2021,
+      "name": "Dragør",
+      "MunicipalTaxRate": 24.8,
+      "ChurchTaxRate": 0.61,
+      "Land tax rate": 24.47
+    },
+    {
+      "Year": 2021,
+      "name": "Tårnby",
+      "MunicipalTaxRate": 23.1,
+      "ChurchTaxRate": 0.61,
+      "Land tax rate": 24
+    },
+    {
+      "Year": 2021,
+      "name": "Albertslund",
+      "MunicipalTaxRate": 25.6,
+      "ChurchTaxRate": 0.8,
+      "Land tax rate": 33.94
+    },
+    {
+      "Year": 2021,
+      "name": "Ballerup",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 0.72,
+      "Land tax rate": 28.89
+    },
+    {
+      "Year": 2021,
+      "name": "Brøndby",
+      "MunicipalTaxRate": 24.3,
+      "ChurchTaxRate": 0.8,
+      "Land tax rate": 20.5
+    },
+    {
+      "Year": 2021,
+      "name": "Gentofte",
+      "MunicipalTaxRate": 23.63,
+      "ChurchTaxRate": 0.4,
+      "Land tax rate": 16
+    },
+    {
+      "Year": 2021,
+      "name": "Gladsaxe",
+      "MunicipalTaxRate": 23.6,
+      "ChurchTaxRate": 0.75,
+      "Land tax rate": 23
+    },
+    {
+      "Year": 2021,
+      "name": "Glostrup",
+      "MunicipalTaxRate": 23.6,
+      "ChurchTaxRate": 0.8,
+      "Land tax rate": 25
+    },
+    {
+      "Year": 2021,
+      "name": "Herlev",
+      "MunicipalTaxRate": 23.7,
+      "ChurchTaxRate": 0.75,
+      "Land tax rate": 24.3
+    },
+    {
+      "Year": 2021,
+      "name": "Hvidovre",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 0.72,
+      "Land tax rate": 29.7
+    },
+    {
+      "Year": 2021,
+      "name": "Høje-Taastrup",
+      "MunicipalTaxRate": 24.6,
+      "ChurchTaxRate": 0.8,
+      "Land tax rate": 24.4
+    },
+    {
+      "Year": 2021,
+      "name": "Ishøj",
+      "MunicipalTaxRate": 25,
+      "ChurchTaxRate": 0.9,
+      "Land tax rate": 25
+    },
+    {
+      "Year": 2021,
+      "name": "Lyngby-Taarbæk",
+      "MunicipalTaxRate": 24.38,
+      "ChurchTaxRate": 0.63,
+      "Land tax rate": 21.49
+    },
+    {
+      "Year": 2021,
+      "name": "Rødovre",
+      "MunicipalTaxRate": 25.7,
+      "ChurchTaxRate": 0.72,
+      "Land tax rate": 30.8
+    },
+    {
+      "Year": 2021,
+      "name": "Vallensbæk",
+      "MunicipalTaxRate": 25.6,
+      "ChurchTaxRate": 0.8,
+      "Land tax rate": 24.38
+    },
+    {
+      "Year": 2021,
+      "name": "Allerød",
+      "MunicipalTaxRate": 24.3,
+      "ChurchTaxRate": 0.58,
+      "Land tax rate": 23.8
+    },
+    {
+      "Year": 2021,
+      "name": "Egedal",
+      "MunicipalTaxRate": 25.7,
+      "ChurchTaxRate": 0.76,
+      "Land tax rate": 23.98
+    },
+    {
+      "Year": 2021,
+      "name": "Fredensborg",
+      "MunicipalTaxRate": 25.3,
+      "ChurchTaxRate": 0.6,
+      "Land tax rate": 24.65
+    },
+    {
+      "Year": 2021,
+      "name": "Frederikssund",
+      "MunicipalTaxRate": 25.8,
+      "ChurchTaxRate": 0.96,
+      "Land tax rate": 32.5
+    },
+    {
+      "Year": 2021,
+      "name": "Furesø",
+      "MunicipalTaxRate": 24.8,
+      "ChurchTaxRate": 0.65,
+      "Land tax rate": 21.5
+    },
+    {
+      "Year": 2021,
+      "name": "Gribskov",
+      "MunicipalTaxRate": 25.4,
+      "ChurchTaxRate": 0.85,
+      "Land tax rate": 29.34
+    },
+    {
+      "Year": 2021,
+      "name": "Halsnæs",
+      "MunicipalTaxRate": 25.7,
+      "ChurchTaxRate": 0.85,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Helsingør",
+      "MunicipalTaxRate": 25.44,
+      "ChurchTaxRate": 0.63,
+      "Land tax rate": 28.5
+    },
+    {
+      "Year": 2021,
+      "name": "Hillerød",
+      "MunicipalTaxRate": 25.85,
+      "ChurchTaxRate": 0.69,
+      "Land tax rate": 20.65
+    },
+    {
+      "Year": 2021,
+      "name": "Hørsholm",
+      "MunicipalTaxRate": 23.7,
+      "ChurchTaxRate": 0.62,
+      "Land tax rate": 22.1
+    },
+    {
+      "Year": 2021,
+      "name": "Rudersdal",
+      "MunicipalTaxRate": 23.09,
+      "ChurchTaxRate": 0.56,
+      "Land tax rate": 22.93
+    },
+    {
+      "Year": 2021,
+      "name": "Bornholm",
+      "MunicipalTaxRate": 26.2,
+      "ChurchTaxRate": 0.93,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Greve",
+      "MunicipalTaxRate": 24.21,
+      "ChurchTaxRate": 0.73,
+      "Land tax rate": 16.94
+    },
+    {
+      "Year": 2021,
+      "name": "Køge",
+      "MunicipalTaxRate": 24.9,
+      "ChurchTaxRate": 0.87,
+      "Land tax rate": 21.04
+    },
+    {
+      "Year": 2021,
+      "name": "Lejre",
+      "MunicipalTaxRate": 25.31,
+      "ChurchTaxRate": 1.05,
+      "Land tax rate": 28.23
+    },
+    {
+      "Year": 2021,
+      "name": "Roskilde",
+      "MunicipalTaxRate": 25.2,
+      "ChurchTaxRate": 0.84,
+      "Land tax rate": 25.69
+    },
+    {
+      "Year": 2021,
+      "name": "Solrød",
+      "MunicipalTaxRate": 24.71,
+      "ChurchTaxRate": 0.89,
+      "Land tax rate": 20.95
+    },
+    {
+      "Year": 2021,
+      "name": "Faxe",
+      "MunicipalTaxRate": 25.8,
+      "ChurchTaxRate": 1.08,
+      "Land tax rate": 25
+    },
+    {
+      "Year": 2021,
+      "name": "Guldborgsund",
+      "MunicipalTaxRate": 25.8,
+      "ChurchTaxRate": 1.16,
+      "Land tax rate": 32.34
+    },
+    {
+      "Year": 2021,
+      "name": "Holbæk",
+      "MunicipalTaxRate": 25.3,
+      "ChurchTaxRate": 0.96,
+      "Land tax rate": 25.09
+    },
+    {
+      "Year": 2021,
+      "name": "Kalundborg",
+      "MunicipalTaxRate": 24.4,
+      "ChurchTaxRate": 1.01,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Lolland",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 1.23,
+      "Land tax rate": 33.09
+    },
+    {
+      "Year": 2021,
+      "name": "Næstved",
+      "MunicipalTaxRate": 25,
+      "ChurchTaxRate": 0.98,
+      "Land tax rate": 25
+    },
+    {
+      "Year": 2021,
+      "name": "Odsherred",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 0.98,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Ringsted",
+      "MunicipalTaxRate": 26.1,
+      "ChurchTaxRate": 0.95,
+      "Land tax rate": 24.74
+    },
+    {
+      "Year": 2021,
+      "name": "Slagelse",
+      "MunicipalTaxRate": 25.1,
+      "ChurchTaxRate": 0.96,
+      "Land tax rate": 25.3
+    },
+    {
+      "Year": 2021,
+      "name": "Sorø",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 0.95,
+      "Land tax rate": 25.74
+    },
+    {
+      "Year": 2021,
+      "name": "Stevns",
+      "MunicipalTaxRate": 26,
+      "ChurchTaxRate": 1.1,
+      "Land tax rate": 21.52
+    },
+    {
+      "Year": 2021,
+      "name": "Vordingborg",
+      "MunicipalTaxRate": 25.2,
+      "ChurchTaxRate": 1.02,
+      "Land tax rate": 32.32
+    },
+    {
+      "Year": 2021,
+      "name": "Assens",
+      "MunicipalTaxRate": 26.1,
+      "ChurchTaxRate": 0.95,
+      "Land tax rate": 22.12
+    },
+    {
+      "Year": 2021,
+      "name": "Faaborg-Midtfyn",
+      "MunicipalTaxRate": 26.1,
+      "ChurchTaxRate": 1.05,
+      "Land tax rate": 22.85
+    },
+    {
+      "Year": 2021,
+      "name": "Kerteminde",
+      "MunicipalTaxRate": 26.2,
+      "ChurchTaxRate": 0.98,
+      "Land tax rate": 30.3
+    },
+    {
+      "Year": 2021,
+      "name": "Langeland",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 1.14,
+      "Land tax rate": 24.57
+    },
+    {
+      "Year": 2021,
+      "name": "Middelfart",
+      "MunicipalTaxRate": 25.8,
+      "ChurchTaxRate": 0.9,
+      "Land tax rate": 21.29
+    },
+    {
+      "Year": 2021,
+      "name": "Nordfyns",
+      "MunicipalTaxRate": 26,
+      "ChurchTaxRate": 1.04,
+      "Land tax rate": 29.98
+    },
+    {
+      "Year": 2021,
+      "name": "Nyborg",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 1.1,
+      "Land tax rate": 27.83
+    },
+    {
+      "Year": 2021,
+      "name": "Odense",
+      "MunicipalTaxRate": 25.43,
+      "ChurchTaxRate": 0.68,
+      "Land tax rate": 21.71
+    },
+    {
+      "Year": 2021,
+      "name": "Svendborg",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 1.02,
+      "Land tax rate": 23.32
+    },
+    {
+      "Year": 2021,
+      "name": "Ærø",
+      "MunicipalTaxRate": 26.1,
+      "ChurchTaxRate": 1.07,
+      "Land tax rate": 30
+    },
+    {
+      "Year": 2021,
+      "name": "Billund",
+      "MunicipalTaxRate": 24,
+      "ChurchTaxRate": 0.89,
+      "Land tax rate": 18.48
+    },
+    {
+      "Year": 2021,
+      "name": "Esbjerg",
+      "MunicipalTaxRate": 25.8,
+      "ChurchTaxRate": 0.81,
+      "Land tax rate": 25.29
+    },
+    {
+      "Year": 2021,
+      "name": "Fanø",
+      "MunicipalTaxRate": 25.23,
+      "ChurchTaxRate": 1.14,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Fredericia",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 0.88,
+      "Land tax rate": 26
+    },
+    {
+      "Year": 2021,
+      "name": "Haderslev",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 0.95,
+      "Land tax rate": 24.36
+    },
+    {
+      "Year": 2021,
+      "name": "Kolding",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 0.92,
+      "Land tax rate": 25
+    },
+    {
+      "Year": 2021,
+      "name": "Sønderborg",
+      "MunicipalTaxRate": 25.7,
+      "ChurchTaxRate": 0.91,
+      "Land tax rate": 27.1
+    },
+    {
+      "Year": 2021,
+      "name": "Tønder",
+      "MunicipalTaxRate": 25.3,
+      "ChurchTaxRate": 1.16,
+      "Land tax rate": 21.24
+    },
+    {
+      "Year": 2021,
+      "name": "Varde",
+      "MunicipalTaxRate": 25.1,
+      "ChurchTaxRate": 0.96,
+      "Land tax rate": 31.56
+    },
+    {
+      "Year": 2021,
+      "name": "Vejen",
+      "MunicipalTaxRate": 25.2,
+      "ChurchTaxRate": 1.06,
+      "Land tax rate": 20.36
+    },
+    {
+      "Year": 2021,
+      "name": "Vejle",
+      "MunicipalTaxRate": 23.4,
+      "ChurchTaxRate": 0.89,
+      "Land tax rate": 27.75
+    },
+    {
+      "Year": 2021,
+      "name": "Aabenraa",
+      "MunicipalTaxRate": 25.6,
+      "ChurchTaxRate": 0.95,
+      "Land tax rate": 18.9
+    },
+    {
+      "Year": 2021,
+      "name": "Favrskov",
+      "MunicipalTaxRate": 25.7,
+      "ChurchTaxRate": 0.96,
+      "Land tax rate": 23.32
+    },
+    {
+      "Year": 2021,
+      "name": "Hedensted",
+      "MunicipalTaxRate": 25.4,
+      "ChurchTaxRate": 0.98,
+      "Land tax rate": 18
+    },
+    {
+      "Year": 2021,
+      "name": "Horsens",
+      "MunicipalTaxRate": 25.31,
+      "ChurchTaxRate": 0.81,
+      "Land tax rate": 22.56
+    },
+    {
+      "Year": 2021,
+      "name": "Norddjurs",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 1,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Odder",
+      "MunicipalTaxRate": 25.1,
+      "ChurchTaxRate": 0.95,
+      "Land tax rate": 30.32
+    },
+    {
+      "Year": 2021,
+      "name": "Randers",
+      "MunicipalTaxRate": 25.8,
+      "ChurchTaxRate": 0.89,
+      "Land tax rate": 27.93
+    },
+    {
+      "Year": 2021,
+      "name": "Samsø",
+      "MunicipalTaxRate": 25.9,
+      "ChurchTaxRate": 1.22,
+      "Land tax rate": 30.75
+    },
+    {
+      "Year": 2021,
+      "name": "Silkeborg",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 0.95,
+      "Land tax rate": 28.26
+    },
+    {
+      "Year": 2021,
+      "name": "Skanderborg",
+      "MunicipalTaxRate": 25.82,
+      "ChurchTaxRate": 0.86,
+      "Land tax rate": 24.66
+    },
+    {
+      "Year": 2021,
+      "name": "Syddjurs",
+      "MunicipalTaxRate": 25.9,
+      "ChurchTaxRate": 1,
+      "Land tax rate": 33.8
+    },
+    {
+      "Year": 2021,
+      "name": "Aarhus",
+      "MunicipalTaxRate": 24.51,
+      "ChurchTaxRate": 0.74,
+      "Land tax rate": 24.58
+    },
+    {
+      "Year": 2021,
+      "name": "Herning",
+      "MunicipalTaxRate": 24.9,
+      "ChurchTaxRate": 0.99,
+      "Land tax rate": 20.53
+    },
+    {
+      "Year": 2021,
+      "name": "Holstebro",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 1.08,
+      "Land tax rate": 24.12
+    },
+    {
+      "Year": 2021,
+      "name": "Ikast-Brande",
+      "MunicipalTaxRate": 25.1,
+      "ChurchTaxRate": 0.97,
+      "Land tax rate": 20.35
+    },
+    {
+      "Year": 2021,
+      "name": "Lemvig",
+      "MunicipalTaxRate": 25.2,
+      "ChurchTaxRate": 1.27,
+      "Land tax rate": 28
+    },
+    {
+      "Year": 2021,
+      "name": "Ringkøbing-Skjern",
+      "MunicipalTaxRate": 25,
+      "ChurchTaxRate": 1.05,
+      "Land tax rate": 31
+    },
+    {
+      "Year": 2021,
+      "name": "Skive",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 1.09,
+      "Land tax rate": 20.68
+    },
+    {
+      "Year": 2021,
+      "name": "Struer",
+      "MunicipalTaxRate": 25.3,
+      "ChurchTaxRate": 1.2,
+      "Land tax rate": 22.9
+    },
+    {
+      "Year": 2021,
+      "name": "Viborg",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 0.93,
+      "Land tax rate": 23.7
+    },
+    {
+      "Year": 2021,
+      "name": "Brønderslev",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 1.09,
+      "Land tax rate": 31.23
+    },
+    {
+      "Year": 2021,
+      "name": "Frederikshavn",
+      "MunicipalTaxRate": 26.2,
+      "ChurchTaxRate": 1.03,
+      "Land tax rate": 29.9
+    },
+    {
+      "Year": 2021,
+      "name": "Hjørring",
+      "MunicipalTaxRate": 26.1,
+      "ChurchTaxRate": 1.19,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Jammerbugt",
+      "MunicipalTaxRate": 25.7,
+      "ChurchTaxRate": 1.2,
+      "Land tax rate": 32.85
+    },
+    {
+      "Year": 2021,
+      "name": "Læsø",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 1.3,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Mariagerfjord",
+      "MunicipalTaxRate": 25.9,
+      "ChurchTaxRate": 1.15,
+      "Land tax rate": 34
+    },
+    {
+      "Year": 2021,
+      "name": "Morsø",
+      "MunicipalTaxRate": 25.8,
+      "ChurchTaxRate": 1.2,
+      "Land tax rate": 24.68
+    },
+    {
+      "Year": 2021,
+      "name": "Rebild",
+      "MunicipalTaxRate": 25.33,
+      "ChurchTaxRate": 1.2,
+      "Land tax rate": 26.09
+    },
+    {
+      "Year": 2021,
+      "name": "Thisted",
+      "MunicipalTaxRate": 25.5,
+      "ChurchTaxRate": 1.27,
+      "Land tax rate": 23.75
+    },
+    {
+      "Year": 2021,
+      "name": "Vesthimmerlands",
+      "MunicipalTaxRate": 26.3,
+      "ChurchTaxRate": 1.18,
+      "Land tax rate": 22.82
+    },
+    {
+      "Year": 2021,
+      "name": "Aalborg",
+      "MunicipalTaxRate": 25.4,
+      "ChurchTaxRate": 0.98,
+      "Land tax rate": 26.95
+    }
+  ]
